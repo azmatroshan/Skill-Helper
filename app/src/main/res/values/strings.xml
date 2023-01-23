@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Skill Helper</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="courses">Courses</string>
+    <string name="profile">Profile</string>
+    <string name="scholarship">Scholarship</string>
+</resources>
